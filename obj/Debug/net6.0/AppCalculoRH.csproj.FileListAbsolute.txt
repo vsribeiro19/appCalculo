@@ -1,0 +1,15 @@
+C:\dev\AppCalculoRH\obj\Debug\net6.0\AppCalculoRH.csproj.AssemblyReference.cache
+C:\dev\AppCalculoRH\obj\Debug\net6.0\AppCalculoRH.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AppCalculoRH\obj\Debug\net6.0\AppCalculoRH.AssemblyInfoInputs.cache
+C:\dev\AppCalculoRH\obj\Debug\net6.0\AppCalculoRH.AssemblyInfo.cs
+C:\dev\AppCalculoRH\obj\Debug\net6.0\AppCalculoRH.csproj.CoreCompileInputs.cache
+C:\dev\AppCalculoRH\bin\Debug\net6.0\AppCalculoRH.exe
+C:\dev\AppCalculoRH\bin\Debug\net6.0\AppCalculoRH.deps.json
+C:\dev\AppCalculoRH\bin\Debug\net6.0\AppCalculoRH.runtimeconfig.json
+C:\dev\AppCalculoRH\bin\Debug\net6.0\AppCalculoRH.dll
+C:\dev\AppCalculoRH\bin\Debug\net6.0\AppCalculoRH.pdb
+C:\dev\AppCalculoRH\obj\Debug\net6.0\AppCalculoRH.dll
+C:\dev\AppCalculoRH\obj\Debug\net6.0\refint\AppCalculoRH.dll
+C:\dev\AppCalculoRH\obj\Debug\net6.0\AppCalculoRH.pdb
+C:\dev\AppCalculoRH\obj\Debug\net6.0\AppCalculoRH.genruntimeconfig.cache
+C:\dev\AppCalculoRH\obj\Debug\net6.0\ref\AppCalculoRH.dll
