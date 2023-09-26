@@ -17,14 +17,12 @@ if(opcaoEscolhida < 1 || opcaoEscolhida > 4) Console.WriteLine("Opção inválid
 switch (opcaoEscolhida)
 {
     case 1:
-        var inss = new calculaFaixaInss().faixaInss(salario);
         Console.WriteLine();
         Console.WriteLine("---------------------------------------------------------------------");
-        var irrf = new calculaFaixaImpostoDeRenda().CalculaFaixaImposto(salario);
-        Console.WriteLine("Opção escolhida: " + opcaoEscolhida + " Exibir detalhes do pagamento");
+        Console.WriteLine("Opção escolhida: [" + opcaoEscolhida + "] - Exibir detalhes do pagamento");
         Console.WriteLine("Salário informado R$: " + salario);
-        Console.WriteLine("Desconto INSS : " +  inss);
-        Console.WriteLine("Desconto IRRF : " + irrf);
+        var inss = new calculaFaixaInss().faixaInss(salario);
+        var irrf = new calculaFaixaImpostoDeRenda().CalculaFaixaImposto(salario);
         break;
 }
 

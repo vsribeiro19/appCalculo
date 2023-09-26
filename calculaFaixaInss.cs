@@ -20,6 +20,7 @@ namespace AppCalculo
                 double calculo = (valor * 7.5) / 100;
                 valor = valor - calculo;
                 Console.WriteLine("Salário com ajuste do INSS " + valor);
+                Console.WriteLine("Desconto INSS " + calculo);
                 return valor;
             }
             else if (valor > 1320 && valor < 2571.29)
@@ -30,6 +31,7 @@ namespace AppCalculo
                 double calculo = (valor * 9) / 100;
                 valor = valor - calculo;
                 Console.WriteLine("Salário com ajuste do INSS " + valor);
+                Console.WriteLine("Desconto INSS " + calculo);
                 return valor;
             }
             else if (valor > 2571.30 && valor < 3856.94)
@@ -40,6 +42,7 @@ namespace AppCalculo
                 double calculo = (valor * 12) / 100;
                 valor = valor - calculo;
                 Console.WriteLine("Salário com ajuste do INSS " + valor);
+                Console.WriteLine("Desconto INSS " + calculo);
                 return valor;
             }
             else
@@ -50,6 +53,7 @@ namespace AppCalculo
                 double calculo = (valor * 14) / 100;
                 valor = valor - calculo;
                 Console.WriteLine("Salário com ajuste do INSS " + valor);
+                Console.WriteLine("Desconto INSS " + calculo);
                 return valor;
             }
         }
